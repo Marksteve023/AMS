@@ -1,0 +1,61 @@
+/* Make ONLY this page fullscreen */
+:host {
+  display: block;
+  height: 100vh;
+}
+
+/* Background */
+.main-bg {
+  background: linear-gradient(135deg, #1e6bd6, #0d3c8f);
+  position: relative;
+  overflow: hidden;
+  height: 100vh;
+  width: 100%;
+}
+
+  /* Decorative circles */
+  .main-bg::before,
+  .main-bg::after {
+    content: '';
+    position: absolute;
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,0.2);
+  }
+
+  .main-bg::before {
+    width: 400px;
+    height: 400px;
+    bottom: -100px;
+    left: -100px;
+  }
+
+  .main-bg::after {
+    width: 600px;
+    height: 600px;
+    bottom: -200px;
+    left: -200px;
+  }
+
+/* Layout fix */
+.row {
+  height: 100%;
+  margin: 0;
+}
+
+.col-md-6 {
+  height: 100%;
+}
+
+/* Login Card */
+.login-card {
+  width: 100%;
+  max-width: 350px;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+}
+
+/* Title shadow */
+h1 {
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}

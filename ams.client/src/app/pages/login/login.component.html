@@ -1,0 +1,49 @@
+<div class="container-fluid d-flex align-items-center main-bg">
+  <div class="row w-100 g-0">
+
+    <!-- LEFT SIDE -->
+    <div class="col-md-6 d-flex align-items-center justify-content-center">
+      <div class="text-white text-center text-md-start">
+        <h1 class="display-4 fw-bold">Attendance</h1>
+        <h1 class="display-4 fw-bold">Management</h1>
+        <h1 class="display-4 fw-bold">System</h1>
+      </div>
+    </div>
+
+    <!-- RIGHT SIDE -->
+    <div class="col-md-6 d-flex justify-content-center align-items-center">
+      <div class="card login-card p-4 shadow">
+
+        <h4 class="mb-4">Sign In</h4>
+
+        <div class="input-group mb-3">
+          <span class="input-group-text">
+            <i class="bi bi-person"></i>
+          </span>
+          <input type="text" class="form-control" id="username"
+                 placeholder="Username"
+                 [(ngModel)]="username"
+                 name="username">
+        </div>
+
+        <div class="input-group mb-3">
+          <span class="input-group-text">
+            <i class="bi bi-lock"></i>
+          </span>
+          <input type="Password" class="form-control" id="password"
+                 placeholder="Password"
+                 [(ngModel)]="password"
+                 name="password">
+        </div>
+
+        <button class="btn btn-primary w-100 rounded-pill"
+                type="button"
+                (click)="goDashboard()">
+          Login
+        </button>
+
+      </div>
+    </div>
+
+  </div>
+</div>

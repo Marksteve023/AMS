@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:58558",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\..\\ams.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

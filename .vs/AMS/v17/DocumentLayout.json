@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-00162\\Desktop\\AMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|c:\\users\\pc-00162\\desktop\\ams\\ams.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|solutionrelative:ams.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205FCEE3-5E6D-E860-DBA6-785059B26DE6}|ams.client\\ams.client.esproj|c:\\users\\pc-00162\\desktop\\ams\\ams.client\\src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{205FCEE3-5E6D-E860-DBA6-785059B26DE6}|ams.client\\ams.client.esproj|solutionrelative:ams.client\\src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205FCEE3-5E6D-E860-DBA6-785059B26DE6}|ams.client\\ams.client.esproj|c:\\users\\pc-00162\\desktop\\ams\\ams.client\\src\\app\\pages\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{205FCEE3-5E6D-E860-DBA6-785059B26DE6}|ams.client\\ams.client.esproj|solutionrelative:ams.client\\src\\app\\pages\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205FCEE3-5E6D-E860-DBA6-785059B26DE6}|ams.client\\ams.client.esproj|c:\\users\\pc-00162\\desktop\\ams\\ams.client\\src\\app\\pages\\register\\regsiter.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{205FCEE3-5E6D-E860-DBA6-785059B26DE6}|ams.client\\ams.client.esproj|solutionrelative:ams.client\\src\\app\\pages\\register\\regsiter.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|c:\\users\\pc-00162\\desktop\\ams\\ams.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|solutionrelative:ams.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205FCEE3-5E6D-E860-DBA6-785059B26DE6}|ams.client\\ams.client.esproj|c:\\users\\pc-00162\\desktop\\ams\\ams.client\\src\\app\\pages\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{205FCEE3-5E6D-E860-DBA6-785059B26DE6}|ams.client\\ams.client.esproj|solutionrelative:ams.client\\src\\app\\pages\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205FCEE3-5E6D-E860-DBA6-785059B26DE6}|ams.client\\ams.client.esproj|c:\\users\\pc-00162\\desktop\\ams\\ams.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{205FCEE3-5E6D-E860-DBA6-785059B26DE6}|ams.client\\ams.client.esproj|solutionrelative:ams.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|c:\\users\\pc-00162\\desktop\\ams\\ams.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|solutionrelative:ams.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|c:\\users\\pc-00162\\desktop\\ams\\ams.server\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|solutionrelative:ams.server\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|c:\\users\\pc-00162\\desktop\\ams\\ams.server\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|solutionrelative:ams.server\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|c:\\users\\pc-00162\\desktop\\ams\\ams.server\\data\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DE20F2-AE32-4947-A164-CF6ACAE0CCC3}|AMS.Server\\AMS.Server.csproj|solutionrelative:ams.server\\data\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "C:\\Users\\PC-00162\\Desktop\\AMS\\ams.client\\src\\app\\services\\auth.service.ts",
+              "RelativeDocumentMoniker": "ams.client\\src\\app\\services\\auth.service.ts",
+              "ToolTip": "C:\\Users\\PC-00162\\Desktop\\AMS\\ams.client\\src\\app\\services\\auth.service.ts",
+              "RelativeToolTip": "ams.client\\src\\app\\services\\auth.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-27T08:14:11.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AMS.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\Program.cs",
+              "RelativeToolTip": "AMS.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:55:53.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "regsiter.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\PC-00162\\Desktop\\AMS\\ams.client\\src\\app\\pages\\register\\regsiter.component.spec.ts",
+              "RelativeDocumentMoniker": "ams.client\\src\\app\\pages\\register\\regsiter.component.spec.ts",
+              "ToolTip": "C:\\Users\\PC-00162\\Desktop\\AMS\\ams.client\\src\\app\\pages\\register\\regsiter.component.spec.ts",
+              "RelativeToolTip": "ams.client\\src\\app\\pages\\register\\regsiter.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-27T07:45:20.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.component.html",
+              "DocumentMoniker": "C:\\Users\\PC-00162\\Desktop\\AMS\\ams.client\\src\\app\\pages\\register\\register.component.html",
+              "RelativeDocumentMoniker": "ams.client\\src\\app\\pages\\register\\register.component.html",
+              "ToolTip": "C:\\Users\\PC-00162\\Desktop\\AMS\\ams.client\\src\\app\\pages\\register\\register.component.html",
+              "RelativeToolTip": "ams.client\\src\\app\\pages\\register\\register.component.html",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-27T07:40:06.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "register.component.ts",
+              "DocumentMoniker": "C:\\Users\\PC-00162\\Desktop\\AMS\\ams.client\\src\\app\\pages\\register\\register.component.ts",
+              "RelativeDocumentMoniker": "ams.client\\src\\app\\pages\\register\\register.component.ts",
+              "ToolTip": "C:\\Users\\PC-00162\\Desktop\\AMS\\ams.client\\src\\app\\pages\\register\\register.component.ts",
+              "RelativeToolTip": "ams.client\\src\\app\\pages\\register\\register.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-27T07:38:58.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\PC-00162\\Desktop\\AMS\\ams.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "ams.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\PC-00162\\Desktop\\AMS\\ams.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "ams.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-27T07:35:14.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AMS.Server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AMS.Server\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:14:19.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "AMS.Server\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "AMS.Server\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:14:18.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AMS.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\appsettings.json",
+              "RelativeToolTip": "AMS.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-27T06:45:03.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\Data\\User.cs",
+              "RelativeDocumentMoniker": "AMS.Server\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\Data\\User.cs",
+              "RelativeToolTip": "AMS.Server\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:46:13.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\Data\\Attendance.cs",
+              "RelativeDocumentMoniker": "AMS.Server\\Data\\Attendance.cs",
+              "ToolTip": "C:\\Users\\PC-00162\\Desktop\\AMS\\AMS.Server\\Data\\Attendance.cs",
+              "RelativeToolTip": "AMS.Server\\Data\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:45:19.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

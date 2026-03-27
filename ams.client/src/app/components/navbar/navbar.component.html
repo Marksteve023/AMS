@@ -1,0 +1,61 @@
+<!-- HEADER -->
+<header class="navbar navbar-dark bg-primary fixed-top px-3">
+  <span class="navbar-brand">Attendance Management System</span>
+
+  <!-- MOBILE TOGGLE -->
+  <button class="navbar-toggler d-lg-none"
+          type="button"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#offcanvasScrolling"
+          aria-controls="offcanvasScrolling">
+
+    <span class="navbar-toggler-icon"></span>
+  </button>
+</header>
+
+<!-- MOBILE NAVBAR
+<nav class="collapse navbar navbar-dark bg-dark d-lg-none" id="mobileNavbar" style="margin-top:56px;">
+  <div class="container-fluid">
+    <ul class="navbar-nav w-100 text-center">
+      <li class="nav-item"><a class="nav-link" routerLink="/createticket">Create Ticket</a></li>
+      <li class="nav-item"><a class="nav-link" routerLink="/tickets">Tickets</a></li>
+      <li class="nav-item"><a class="nav-link" routerLink="/calendar">Calendar</a></li>
+      <li class="nav-item"><a class="nav-link text-danger" routerLink="/login">Logout</a></li>
+    </ul>
+  </div>
+</nav>-->
+
+<button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling">Enable body scrolling</button>
+
+<div class="offcanvas offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
+  <div class="offcanvas-header">
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+    <div>
+      <ul class="navbar-nav w-100 text-center">
+        <li class="nav-item"><a class="nav-link" (click)="goToDashboard()">DashBoard</a></li>
+        <li class="nav-item"><a class="nav-link" (click)="goToCreAttendance()">Create Attendance</a></li>
+        <li class="nav-item"><a class="nav-link text-dark" (click)="goToAttendance()">Attendance</a></li>
+        <li class="nav-item"><a class="nav-link text-danger" routerLink="/login">Logout</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+
+    <!-- SIDEBAR (DESKTOP) -->
+    <nav class="col-sm-2 d-none d-lg-block bg-primary-subtle text-dark position-fixed vh-100 pt-3" style="top:56px;">
+      <ul class="nav flex-column px-2">
+        <li class="nav-item"><a class="nav-link text-dark" (click)="goToDashboard()">DashBoard</a></li>
+        <li class="nav-item"><a class="nav-link text-dark" (click)="goToCreAttendance()">Create Attendance</a></li>
+        <li class="nav-item"><a class="nav-link text-dark" (click)="goToAttendance()">Attendance</a></li>
+        <li class="nav-item"><a class="nav-link text-danger" (click)="logout()">Logout</a></li>
+      </ul>
+    </nav>
+
+
+  </div>
+</div>
